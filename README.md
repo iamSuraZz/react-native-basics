@@ -1,4 +1,4 @@
 # React Native Basics
  
- ![Screenshot_2022-11-23-10-53-22-084_host exp exponent](https://user-images.githubusercontent.com/56751643/203473110-b7b32ffc-5be0-4c37-96c5-87bb4c04bd04.jpg)
+![IMG_20221123_113937](https://user-images.githubusercontent.com/56751643/203480726-14e06d7f-f8c1-4779-94e6-db6fb2f873f1.jpg)
 
